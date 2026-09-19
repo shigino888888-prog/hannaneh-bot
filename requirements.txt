@@ -1,2 +1,5 @@
-python-telegram-bot==20.3
 groq
+python-telegram-bot
+httpx
+httpcore>=1.0.5
+
